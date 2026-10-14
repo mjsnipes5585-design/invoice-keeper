@@ -1,5 +1,5 @@
 ---
-name: invoice-organizer
+name: invoice-keeper
 description: Organizes business records and reports storage readiness
 metadata:
   openclaw:
